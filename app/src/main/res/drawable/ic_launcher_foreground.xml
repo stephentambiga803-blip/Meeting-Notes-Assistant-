@@ -1,0 +1,29 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    
+    <!-- Outer cyan glowing ring -->
+    <path
+        android:fillColor="#1538bdf8"
+        android:pathData="M54,54m-42,0a42,42 0,1 1,84 0a42,42 0,1 1,-84 0" />
+
+    <path
+        android:strokeColor="#38bdf8"
+        android:strokeWidth="1"
+        android:pathData="M54,54m-42,0a42,42 0,1 1,84 0a42,42 0,1 1,-84 0" />
+
+    <!-- Mic pill core element -->
+    <path
+        android:fillColor="#38bdf8"
+        android:pathData="M46,38c0,-4.42 3.58,-8 8,-8s8,3.58 8,8v14c0,4.42 -3.58,8 -8,8s-8,-3.58 -8,-8z" />
+
+    <!-- Cradle, stem, and horizontal support bars -->
+    <path
+        android:strokeColor="#ffffff"
+        android:strokeWidth="4"
+        android:strokeLineCap="round"
+        android:strokeLineJoin="round"
+        android:pathData="M40,48v6c0,7.73 6.27,14 14,14s14,-6.27 14,-14v-6M54,68v10M44,78h20" />
+</vector>

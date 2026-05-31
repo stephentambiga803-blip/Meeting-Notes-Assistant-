@@ -1,0 +1,6 @@
+{
+  "name": "Meeting Notes Assistant",
+  "description": "Voice record, transcribe, and automatically summarize meetings with Gemini and local persistence.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
